@@ -1,7 +1,7 @@
 Hi 👋 My this is Haziq
 ===============================
 
-Software Engineer
+Senior Software Engineer
 -----------------
 
 ### :man_technologist: About Me :
