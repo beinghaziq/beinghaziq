@@ -40,3 +40,8 @@ As a software engineer, I am a highly skilled professional with a passion for te
 ### 📈 Github Stats :
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=beinghaziq&theme=dark&hide_border=false)<br/>
+
+---
+
+### Profile Views :
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=beinghaziq&label=Profile%20views&color=0e75b6&style=flat" alt="beinghaziq" /> </p>
