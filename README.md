@@ -1,4 +1,4 @@
-Hi 👋 My this is Haziq
+Hi 👋 This is Haziq
 ===============================
 
 Senior Software Engineer
