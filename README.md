@@ -11,33 +11,7 @@ As a software engineer, I am a highly skilled professional with a passion for te
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python"  alt="Java" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="Graphql"  alt="Graphql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-plain-wordmark.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg" title="FastAPI" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="FastAPI" alt="Spring" width="40" height="40"/>
-</div>
-
-## 💻 :dart: Tools & Technologies 
+## 💻 :hammer_and_wrench: Tools & Technologies 
 
 ### Languages
 
@@ -61,13 +35,20 @@ As a software engineer, I am a highly skilled professional with a passion for te
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
+![Angular JS](https://img.shields.io/badge/Anugular-%23CC342D.svg?style=flat&logo=angular&logoColor=white)
 
 
 ### Backend Frameworks and Tools:
 
 ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white) 
+![Express JS](https://img.shields.io/badge/Express-FFDE21.svg?style=flat&logo=Express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) 
+![Serverless](https://img.shields.io/badge/Serverless-CC1F1F.svg?style=flat&logo=Serverless&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33.svg?style=flat&logo=Blockchain.com&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00B3A4.svg?style=flat&logo=OpenAI&logoColor=white)
+
+
 
 ### Mobile App Frameworks & Tools:
 
@@ -81,6 +62,8 @@ As a software engineer, I am a highly skilled professional with a passion for te
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) 
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6.svg?style=flat&logo=Amazon%20DynamoDB&logoColor=white)
+
 
 ### DevOps + Deployment Technologies & Tools:
 
@@ -109,6 +92,8 @@ As a software engineer, I am a highly skilled professional with a passion for te
 ![Twillio](https://img.shields.io/badge/Twilio-%23F32F48.svg?style=flat&logo=twilio&logoColor=white)
 ![Google APIs](https://img.shields.io/badge/Google%20APIs-%234284F3.svg?style=flat&logo=google&logoColor=white) 
 ![Linkedin](https://img.shields.io/badge/LinkedIn-%230B65C2.svg?style=flat&logo=linkedin&logoColor=white) 
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF.svg?style=flat&logo=Zoom&logoColor=white)
+
 
 ### Other Tools:
 
