@@ -47,3 +47,10 @@ As a software engineer, I am a highly skilled professional with a passion for te
 
 ### Profile Views :
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beinghaziq&label=Profile%20views&color=0e75b6&style=flat" alt="beinghaziq" /> </p>
+
+
+## 📫 How to Reach Me
+<div align="justify">
+  Feel free to shoot me an email at <a href="mailto:beinghaziq@gmail.com">beinghaziq@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/beinghaziq/">LinkedIn.</a>
+</div>
+
