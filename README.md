@@ -109,10 +109,10 @@ As a software engineer, I am a highly skilled professional with a passion for te
 ---
 
 ## 📈 Github Stats
-<!-- <div align="center">
+<div align="center">
     <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=beinghaziq&theme=dark"/></a></br>
     <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beinghaziq&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></a>
-</div> -->
+</div>
 
 
 ---
